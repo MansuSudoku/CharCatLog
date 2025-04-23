@@ -1,0 +1,11 @@
+sitron, https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/GrrenSofa.jpg
+
+, 99, 9, 1|Butt Stack, https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/TableAndChairs.jpg
+
+, 66, 6, 1|A  breast of a chest , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/chestofDraws.jpg
+
+, 33, 9, 3|Cookies no crumbles , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/electricCooker.jpg
+
+, 44, 16, 2|A party to be had , https://raw.githubusercontent.com/MansuPatel/CFPBrowse/main/gallery.jpg
+
+, 1111, 4, 0
